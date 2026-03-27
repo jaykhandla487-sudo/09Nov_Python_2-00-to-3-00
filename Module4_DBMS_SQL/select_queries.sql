@@ -1,0 +1,5 @@
+SELECT * FROM students;
+
+SELECT student_name, age FROM students;
+
+SELECT * FROM students WHERE age > 12;

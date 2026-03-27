@@ -1,0 +1,6 @@
+# Corrected syntax
+
+num = 10
+
+if num > 5:
+    print("Number is greater than 5")

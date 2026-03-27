@@ -1,0 +1,8 @@
+DELIMITER //
+
+CREATE PROCEDURE GetStudents()
+BEGIN
+    SELECT * FROM students;
+END //
+
+DELIMITER ;

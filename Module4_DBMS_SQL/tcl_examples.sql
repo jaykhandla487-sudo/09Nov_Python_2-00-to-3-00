@@ -1,0 +1,7 @@
+START TRANSACTION;
+
+INSERT INTO students VALUES (7,'Arjun',13,'7C','Jaipur');
+
+COMMIT;
+
+ROLLBACK;
